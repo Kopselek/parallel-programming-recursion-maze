@@ -25,5 +25,5 @@ generate_maze_time_measured(height, width)
 ## Results
 
 ### With params 300 x 300
-![]()
+![](https://raw.githubusercontent.com/Kopselek/parallel-programming-recursion-maze/master/Figure.png)
 
